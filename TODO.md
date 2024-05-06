@@ -1,6 +1,6 @@
 # General
 
-- [ ] Clean up template file with additional documentation
+- [ ] Clean up template file with additional notes on the process
 - [ ] Flesh out README
 - [ ] Add a `time to run` column to response tables
 - [ ] Convert existing files to template format
