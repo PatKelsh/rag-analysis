@@ -4,6 +4,8 @@ This workbook allows for quick analysis of and RAG model system against a provid
 
 ## How to use
 
+This notebook requires a NVIDA GPU with CUDA installed to run properly. No promise on results if CUDA is not available
+
 - Set up python venv and install requirements
 - Make a copy of `template.ipynb`. Rename to something relevant for the use case being tested for
 - Take document corpus and place in `./data` directory. Currently only Markdown is support so convert all documents to markdown
