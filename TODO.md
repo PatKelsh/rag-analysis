@@ -22,7 +22,7 @@
 # Use Cases
 
 - [ ] Additional document type ingest (Word, txt, ymal, etc)
-- [ ] Tabular data ingest (Excel, csv, etc)
+- [ ] Test tabular data ingest (Excel, csv, etc)
 - [ ] Test code creation from prompt
 
 # Long Reaches
